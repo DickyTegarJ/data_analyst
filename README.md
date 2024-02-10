@@ -2,4 +2,4 @@
 
 - Dashboard
 
-![Img](samba_commerce/dashboard.PNG)
+![Img](samba_commerce/dashboard.png)
